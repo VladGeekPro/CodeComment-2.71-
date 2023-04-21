@@ -25,5 +25,5 @@ import java.io.BufferedWriter;
 Описание запуска приложения (как собрать и запустить проект)
 
 1)Открыть среду разработки например, VS Code.
-2)Создать новый проект и добавить в него все четыре файла: Currency.java, CSVReader.java, CSVWriter.java и DataOrganization.java.
+2)Создать новый проект и добавить в него все 5 файла: Currency.java, CSVReader.java, CSVWriter.java и DataOrganization.java, CurrencyData.csv .
 3)Открыть файл DataOrganization.java и нажать кнопку "Run".
